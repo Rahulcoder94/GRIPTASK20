@@ -1,0 +1,4 @@
+
+Hours = input("How many Hours you studied ?")
+Prediction = 9.7758*(Hours) + 2.4837
+print(f"You Will Get {int(Prediction)} % score")
